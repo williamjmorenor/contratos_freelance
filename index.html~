@@ -1,0 +1,214 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>Contratos para emprendedores.</title>
+		
+		<!-- Fuentes recomendadas por el Proyecto Fedora.-->
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/fedora.css">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section>
+				  <img data-src="media/contrato.png">
+				  <h3>Tips and Tricks sobre Contratos para Freelancers</h3>
+				  <img src="media/duke_sign.png">
+				  <p>William Moreno Reyes</p>
+				  <p>
+				  <a href="mailto:williamjmorenor@fedoraproject.org" >william.moreno.reyes@gmail.com</a>
+				  <p>git clone https://github.com/williamjmorenor/contratos_freelance.git</p>
+				  </p>
+				  <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+				</section>
+				<section>
+				  <section>
+				  <h2>Lo que todos deben saber sobre contratos.</h2>
+				  <img src="media/idea.png">
+				  </section>
+				  <section>
+				    <h2>Concepto General.</h2>
+				    <ul>
+				      <li>Acuerdo entre formal entre las partes.</li>
+				      <li>Crea derechos y obligaciones entre las partes.</li>
+				    </ul>
+				    <p>Base Legal</p>
+				    <p>
+				      <i><b>Arto. 1836. Código Civil</b> - Las obligaciones que nacen de los contratos, tienen fuerza de ley
+				      entre las partes contratantes, y deben cumplirse al tenor de los mismos.</i>
+                </p>
+                <img src="media/firma.jpg">
+				  </section>
+				  <section>
+				    <h2>Ventajas de un contrato.</h2>
+				    <ul>
+				      <li>Estable limites en los trabajos a realizar.</li>
+				      <li>Establece un honorario formal por los servicios a prestar.</li>
+				      <li>En caso de incumplimiento del contrato se puede llevar a instancias judiciales.</li>
+				      <li>Crea derechos reales.</li>
+				    </ul>
+				    <img src="media/GARANTIA.png">
+				  </section>
+				  <section>
+				    <h2>Elementos básicos de un contrato.</h2>
+				    <ul>
+				      <li>Identificación de las partes.</li>
+				      <li>Objeto del contrato.</li>
+				      <li>Honorarios y forma de pago.</li>
+				      <li>Aceptación.</li>
+				    </ul>
+				  </section>
+				  <section>
+				    <h2>Sirve de soporte fiscal para el cliente.</h2>
+				    <p>Una factura no es soporte suficiente de un gasto.</p>
+				    <p>Base legal.</p>
+				    <ul>
+				      <li><p>Art. 100 Reglamento LCT.</p></li>
+				      <li><p>Art. 39 Primer párrafo LCT</p></li>
+				      <li><p>Art. 42 LCT</p></li>
+				    </ul>
+				  </section>
+				  <section>
+				    <h2>Riesgos de no firmar un contrato.</h2>
+				    <ul>
+				      <li>No hay una forma de pago definida.</li>
+				      <li>No hay una correcta delimitación del alcance de los trabajos a realizar.</li>
+				      <li>No se establecen plazos de pago.</li>
+				      <li>No es posible anular un contrato que no existe.</li>
+				    </ul>
+				  </section>
+				</section>
+				<section>
+				  <section>
+				    <h2>8 Clausulas tips a tomar en cuenta.</h2>
+				  </section>
+				  <section>
+				    <h2>1. Definición clara de honorarios.</h2>
+				    <ul>
+				      <li>Tarifa y forma de calculo (se cobra por hora o proyecto).</li>
+				      <li>Si se cobra por hora establecer un mínimo y máximo para el proyecto.</li>
+				    </ul>
+				  </section>
+				  <section>
+				    <h2>2. Forma y medios de pagos.</h2>
+				    <ul>
+				      <li>Asegurar un adelanto suficiente.</li>
+				      <li>Definir pagos subsecuentes según se avanza en el proyecto.</li>
+				      <li>Como recibir el pago (cheque, transferencia, efectivo).</li>
+				    </ul>
+				  </section>
+				  <section>
+				    <h2>3. Establecer una contraparte en el cliente.</h2>
+				    <ul>
+				      <li>Definir un sólo punto de contacto.</li>
+				      <li>Establecer quienes son los funcionarios autorizados a influir en el desarrollo del proyecto.</li>
+				      <li>Establecer medios de comunicación.</li>
+				    </ul>
+				  </section>
+				  <section>
+				    <h2>4. Cancelación anticipada.</h2>
+				    <ul>
+				      <li>Establecer una clausula de indemnización en caso que el cliente de por terminado el proyecto.</li>
+				      <li>Definir un medio de solucionar discrepancias.</li>
+				    </ul>
+				  </section>
+				  <section>
+				    <h2>5. Revisiones y Modificaciones al proyecto.</h2>
+				    <ul>
+				      <li>Establecer requerimientos claros desde el inicio.</li>
+				      <li>Limitar cantidad de revisiones al proyecto.</li>
+				      <li>Establecer un precio por revisiones adicionales.</li>
+				    </ul>
+				  </section>
+				  <section>
+				    <h2>6. Imprevistos y requerimientos adicionales.</h2>
+				    <ul>
+				      <li>Establecer honorarios por requerimientos adicionales.</li>
+				      <li>Firmar una ampliación al contrato por requerimientos adicionales.</li>
+				    </ul>
+				  </section>
+				  <section>
+				    <h2>7. Derechos de autor.</h2>
+				    <ul>
+				      <li>Asegurar que el cliente no esta autorizado a hacer uso comercial del proyecto si no ha pagado por el mismo.</li>
+				    </ul>
+				  </section>
+				  <section>
+				    <h2>8. Plazos de entrega.</h2>
+				    <ul>
+				      <li>Establecer un cronograma para el proyecto.</li>
+				      <li>Tratar de evitar atrasos en las entregas previstas.</li>
+				    </ul>
+				  </section>
+				</section>
+				<section>
+				  <section>
+				  <h2>Tricks sobre contratos.</h2>
+				  </section>
+				  <section>
+				  <h2>El cliente no firmo el contrato.</h2>
+				  <p>La aceptación por medio digital es igual medio de prueba para exigir cumplimiento de terminos</p>
+				  <p>Base Legal</p>
+				  <p><i><b>Art. 276 - Código procesal civil:</b> Los documentos privados harán prueba en el proceso civil, [...] Cuando
+				  se solicite la eficacia de un documento electrónico o se impugne su autenticidad, se procederá con arreglo a lo
+				  previsto en este Código y otras leyes.</i></p>
+				  <img src="media/prueba_digital.png">
+				  </section>
+				  <section>
+				    <h2>Cuidado con la representación legal.</h2>
+				    <p>Sólo un funcionario con representación legal puede obligar a una empresa en un contrato.</p>
+				    <p>
+				      <ul>
+				        <li>Normalmente el gerente general cuenta con poder general de administración.</li>
+				        <li>Procurar que el gerente general sea nuestra contraparte en el contrato.</li>
+				      </ul>
+				    </p>
+				  </section>
+				  <section>
+				    <h2>El cliente no quiere pagar.</h2>
+				    <p>Normalmente un requerimiento de cobro judicial basta, los honorarios de un abogado por recuperación suelen ser
+				    entre 5% y 10% por recuperación de cartera.</p>
+				    <p>No existe carcel por deuda, pero contratar servicios y no cancelarlos puede catalogarse que es un delito.</p>
+				  </section>
+				</section>
+				<section>
+				<h3>¿Preguntas?</h3>
+				</section>
+			</div>
+		</div>
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+
+		<script>
+			// More info about config & dependencies:
+			// - https://github.com/hakimel/reveal.js#configuration
+			// - https://github.com/hakimel/reveal.js#dependencies
+			Reveal.initialize({
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/notes/notes.js', async: true },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+				]
+			});
+		</script>
+	</body>
+</html>
