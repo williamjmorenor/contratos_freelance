@@ -2,7 +2,7 @@
 
 La presentación sobre contratos esta licenciada como CC-By
 
-Los modelos de contratos se pueden usar cargo alguno y modificarlos de acuerdo a sus necesidades
+Los modelos de contratos se pueden usar sin cargo alguno y modificarlos de acuerdo a sus necesidades
 
 ## RENUNCIA DE RESPONSABILIDAD
 
