@@ -1,0 +1,11 @@
+# Presentación de Contratos para freelancers
+
+La presentación sobre contratos esta licenciada como CC-By
+
+Los modelos de contratos se pueden usar cargo alguno y modificarlos de acuerdo a sus necesidades
+
+## RENUNCIA DE RESPONSABILIDAD
+
+LOS MODELOS DE CONTRATOS SE PROVEEN TAN CUAL ESTAN SIN NINGUNA GARANTIA DE QUE PUEDAN UTILES PARA
+ALGUNA DETERMINADA RELACION JURIDICA ENTRE USTED Y SUS CLIENTES, SU USO ES BAJO SU PROPIO RIESGO,
+SE RECOMIENDA BUSCAR ASESORIA LEGAL ADECUADA ANTE CUALQUIER CONSULTA SOBRE TEMAS LEGALES.
